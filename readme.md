@@ -5,12 +5,21 @@ A plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) adding
 
 ## Installation
 
+### Antigen
+
+If you're using [Antigen](https://github.com/zsh-lovers/antigen), just add `antigen bundle walesmd/caniuse.plugin.zsh` to your `.zshrc` along with your other plugins.
+
+### Oh-My-Zsh
 1.  Clone this repository into your oh-my-zsh custom plugins directory.
 
 ```shell
 cd ~/.oh-my-zsh/custom/plugins
 clone https://github.com/walesmd/caniuse.plugin.zsh ./caniuse
 ```
+
+### Zgen
+
+If you're using [Zgen](https://github.com/tarjoilija/zgen), just add `antigen bundle walesmd/caniuse.plugin.zsh` to your `.zshrc` along with your other plugins.
 
 ## Usage
 
