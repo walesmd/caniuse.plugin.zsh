@@ -9,7 +9,7 @@ A plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) adding
 
 ```shell
 cd ~/.oh-my-zsh/custom/plugins
-clone https://github.com/walesmd/caniuse.plugin.zsh ./caniuse
+git clone https://github.com/walesmd/caniuse.plugin.zsh ./caniuse
 ```
 
 ## Usage
