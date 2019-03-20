@@ -12,6 +12,12 @@ cd ~/.oh-my-zsh/custom/plugins
 git clone https://github.com/walesmd/caniuse.plugin.zsh ./caniuse
 ```
 
+2. Update your `~/.zshrc` file to load the plugin.
+
+```shell
+plugins=(caniuse) # there will likely be other plugins listed here as well
+```
+
 ## Usage
 
 Use the `caniuse` command from your OSX terminal to quickly launch the website 
